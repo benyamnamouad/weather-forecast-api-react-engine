@@ -9,7 +9,7 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 
-> git clone https://github.com/StephenGrider//weather-forecast-api-react-engine.git
+> git clone https://github.com/BnMouad/weather-forecast-api-react-engine.git
 > cd ReduxSimpleStarter
 > npm install
 > npm start
